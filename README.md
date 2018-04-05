@@ -1,5 +1,7 @@
 # bioinformatics
 Bioinformatics training
 
-9/21/2017 last updated
+04/04/2018 last updated
 NEW COMMAND
+
+
